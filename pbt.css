@@ -1,0 +1,18 @@
+.title {
+    height: 100px;
+    background-color: #64676a;
+}
+
+.image  {
+    height: 500px;
+}
+
+.description {
+    height: 200px;
+    background-color: #8E9397;
+}
+
+.colors {
+    height: 100px;
+    background-color: #A9AFB4;
+}
